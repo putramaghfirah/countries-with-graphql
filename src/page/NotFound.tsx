@@ -5,6 +5,7 @@ export function NotFound() {
 }
 
 const PageNotFound = styled.p`
+  margin: 10px 0;
   text-align: center;
   font-size: 20px;
   font-weight: 700;
