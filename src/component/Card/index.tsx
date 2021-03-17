@@ -39,6 +39,7 @@ const Container = styled.div<{ width?: string; heigth?: string }>`
     display: block;
     img {
       display: block;
+      margin: 10px 0;
       margin-left: auto;
       margin-right: auto;
     }
